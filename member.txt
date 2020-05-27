@@ -1,0 +1,4 @@
+Eva,2,Tronok harca I. kotet,Harry Potter
+Mark,3,Pokok tortenete,Rejto Jeno konyve,Teli mesekonyv
+Tomi,1,Fizika konyv
+Fanni,4,Kemia konyv,Vilagrekordok konyve,Receptkonyv,Naplo

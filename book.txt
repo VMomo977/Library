@@ -1,0 +1,12 @@
+Tronok harca,2
+Harry Potter,1
+Pokok tortenete,7
+Rejto Jeno konyve,4
+Teli mesekonyv,2
+Fizika konyv,4
+Kemia konyv,4
+Vilagrekordok konyve,4
+Receptkonyv,42
+Naplo,4
+Vidam tortenetek, 4
+Viccek roviden, 5
